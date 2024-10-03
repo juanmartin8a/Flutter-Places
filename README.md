@@ -32,7 +32,7 @@ An app to find trips to make (like AirBnB but for whole trip accommodations).
   There is a main feed where recommended trips for the user appear.
 
 - ### Adding trips system
-  A user can add existing trips to their profile with the porpuse of planning on going there!
+  A user can add existing trips to their profile to plan on going there!
 
 - ### Chat system
   A user interested in a trip can chat with the user who posted the trip, in here the users can exchange messages and pictures that can be obtained from the in-app camera, or from the device's gallery.
