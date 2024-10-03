@@ -1,16 +1,52 @@
-# workingOnUI
+# Flutter Places
+An app to find trips to make (like AirBnB but for whole trip accommodations).
 
-A new Flutter project.
+  - ## Why
+    The goal for this app was to improve my UI skills by testing more complicated UI features like animations.
 
-## Getting Started
+## Platforms
+- iOS
+- Android
 
-This project is a starting point for a Flutter application.
+## Tech used
+- **Frontend framework**: Flutter (hence the name of the app ;) )
+- **Main database**: Firebase Firestore
+- **Authentication**: Firebase Auth
+- **Cloud functions**: Firebase using Typescript
+- **Notifications**: Firebase Cloud Messaging
+- **Place location**: Google Maps
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- ### Trips
+  A trip includes information such as:
+    - Place
+    - Pictures
+    - Number of days
+    - Number of nights
+    - Price
+    - Location
+      
+  Users can create trips :D
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- ### Feed
+  There is a main feed where recommended trips for the user appear.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ### Adding trips system
+  A user can add existing trips to their profile with the porpuse of planning on going there!
+
+- ### Chat system
+  A user interested in a trip can chat with the user who posted the trip, in here the users can exchange messages and pictures that can be obtained from the in-app camera, or from the device's gallery.
+
+- ### Profile
+  Each user has a profile which includes information such as:
+    - Profile picture
+    - Name
+    - Username
+    - Trips (trips that the user is planning on going)
+    - My trips (trips the user is making)
+ 
+## Example Video :)
+The app was tested using an Android emulator in an old and saturated computer so the performance was terrible :). I sped up the video 2x.
+
+https://github.com/user-attachments/assets/83eee2d3-646e-4a80-beb1-be2f0d38fa89
+
