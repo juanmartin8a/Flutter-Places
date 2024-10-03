@@ -12,6 +12,7 @@ An app to find trips to make (like AirBnB but for whole trip accommodations).
 - **Frontend framework**: Flutter (hence the name of the app ;) )
 - **Main database**: Firebase Firestore
 - **Authentication**: Firebase Auth
+- **File storage**: Firebase Storage
 - **Cloud functions**: Firebase using Typescript
 - **Notifications**: Firebase Cloud Messaging
 - **Place location**: Google Maps
