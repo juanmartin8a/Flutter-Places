@@ -1,4 +1,7 @@
 # Flutter Places
+![Started](https://img.shields.io/badge/Started-Nov%202020-blue%20green.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202020-blue.svg?color=informational)
+
 An app to find trips to make (like AirBnB but for whole trip accommodations).
 
   - ## Why
